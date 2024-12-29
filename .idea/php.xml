@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LaravelPint">
+    <laravel_pint_settings>
+      <LaravelPintConfiguration tool_path="$PROJECT_DIR$/bagisto/vendor/bin/pint" />
+    </laravel_pint_settings>
+  </component>
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/bagisto/vendor/composer" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/khaled.alshamaa/ar-php" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/openai-php/client" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/openai-php/laravel" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/pestphp/pest" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/pestphp/pest-plugin" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/pestphp/pest-plugin-arch" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/league/config" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/pestphp/pest-plugin-laravel" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/league/glide" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/astrotomic/laravel-translatable" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/fidry/cpu-core-counter" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/ta-tikoma/phpunit-architecture-test" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/setasign/fpdi" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/shetabit/visitor" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/paypal/paypal-checkout-sdk" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/paypal/paypalhttp" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/mpdf/mpdf" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/mpdf/psr-http-message-shim" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/mpdf/psr-log-aware-trait" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/bagisto/laravel-datafaker" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/nicmart/tree" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/kalnoy/nestedset" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/brianium/paratest" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/enshrined/svg-sanitize" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/php-http/multipart-stream-builder" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/prettus/l5-repository" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/prettus/laravel-validation" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/octane" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/elastic/transport" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/pusher/pusher-php-server" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/konekt/concord" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/konekt/enum" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/konekt/enum-eloquent" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/browsershot" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/crawler" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/image" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/image-optimizer" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/ua-parser/uap-php" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/laravel-package-tools" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/laravel-responsecache" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/laravel-sitemap" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/robots-txt" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/spatie/temporary-directory" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/intervention/imagecache" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/diglactic/laravel-breadcrumbs" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/wontonee/stripe" />
+      <path value="$PROJECT_DIR$/bagisto/vendor/stripe/stripe-php" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/bagisto/phpunit.xml" custom_loader_path="$PROJECT_DIR$/bagisto/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
